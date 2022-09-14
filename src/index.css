@@ -16,3 +16,8 @@ body {
     #244845
   );
 }
+.try {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
